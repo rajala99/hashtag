@@ -1,0 +1,77 @@
+.h3 {
+    padding: 30px 150px 10px 150px;
+}
+
+.nav-button {
+    padding: 10px 150px;
+}
+
+.card_images {
+    padding: 10px 150px;
+}
+
+.hashtag {
+
+    color: #FFF;
+    font-family: Red Rose;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.dropdown {
+    color: #FFF;
+    font-family: Red Rose;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10px 10px 10px 200px;
+}
+
+.btn btn-secondary disabled {
+    color: #FFF;
+    font-family: Red Rose;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.btn btn-light {
+    color: #000;
+    font-family: Red Rose;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.row {
+    padding: 10px 150px;
+}
+
+.card-text {
+    text-align: center;
+    padding-top: 50px;
+    font-weight: 100px;
+}
+
+.search {
+    color: #929292;
+    font-family: Red Rose;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.search.main {
+    text-align: center;
+
+}
+
+img.profile {
+    height: 36px;
+}

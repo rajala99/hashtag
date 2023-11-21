@@ -1,0 +1,97 @@
+.image {
+    width: 800px;
+    height: 660px;
+    flex-shrink: 0;
+    background: #000;
+}
+
+.col-sm {
+    text-align: center;
+}
+
+.terms {
+    color: #9C9C9C;
+    text-align: center;
+    font-family: Red Rose;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.underline {
+    color: #000;
+    font-family: Red Rose;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.bold {
+    color: #000;
+    font-family: Red Rose;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.layout {
+    width: 137px;
+    height: 23px;
+    flex-shrink: 0;
+}
+
+.button {
+    color: #FFF;
+    font-family: Red Rose;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.page_one {
+    text-align: center;
+    padding: 20px 70px 100px 0px;
+}
+
+.login-box {
+    top: 25%;
+    position: absolute;
+    width: 100%;
+}
+
+.show-hide-password {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+
+.remember-checkbox {
+    text-align: left;
+    padding: 5px
+}
+
+.remember-checkbox label {
+    padding-left: 5px;
+}
+
+.btn-login {
+    width: 100%;
+    background-color: #000;
+    border-radius: 0px;
+}
+
+.term-condition {
+    text-align: left;
+}
+
+.bi-eye-slash-fill {
+    top: 6px;
+    right: 0px;
+    margin-left: -16px;
+    position: absolute;
+}
